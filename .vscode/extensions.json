@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "dsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "charliermarsh.ruff",
+    "rust-lang.rust-analyzer",
+    "tamasfe.even-better-toml",
+    "usernamehw.errorlens",
+    "eamodio.gitlens"
+  ]
+}
